@@ -148,6 +148,6 @@ def convert_dat_to_text(source_encoding='EUC-TW', target_encoding='UTF-8'):
 
 ## 授權資訊
 
-本專案採用 MIT 授權條款，詳見 [LICENSE](LICENSE) 文件。
+本專案採用 MIT 授權條款，詳見 [MIT Licence](https://github.com/kuroneko11375/Convert/blob/main/LICENSE) 。
 
 
